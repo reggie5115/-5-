@@ -3,6 +3,8 @@ import random
 import sys
 from enum import Enum
 
+# 김지우
+
 # Initialize Pygame
 pygame.init()
 
