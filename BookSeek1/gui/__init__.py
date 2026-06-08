@@ -1,1 +1,0 @@
-"""BookSeek GUI package."""

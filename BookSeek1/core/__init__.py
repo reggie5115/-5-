@@ -1,1 +1,0 @@
-"""BookSeek core package."""
