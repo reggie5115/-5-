@@ -1,1 +1,0 @@
-"""Inkwell GUI package."""
