@@ -1,0 +1,7 @@
+# Inkwell has NO required third-party dependencies.
+# It runs on the Python standard library (Tkinter, sqlite3, urllib).
+#
+# OPTIONAL — only if you want the chatbot to use Anthropic's Claude
+# instead of the built-in offline librarian:
+#
+# anthropic>=0.39.0
