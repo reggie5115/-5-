@@ -1,1 +1,1 @@
-# BookSeek has no required third-party dependencies (stdlib only).
+"""BookSeek GUI package."""
